@@ -2,8 +2,8 @@ from instagrapi import Client
 import time
 import os
 
-USERNAME = "YOUR_INSTAGRAM_USERNAME"
-PASSWORD = "YOUR_INSTAGRAM_PASSWORD"
+USERNAME = "clutchzonegaming"
+PASSWORD = "Sewak123@12"
 
 # Store session data to avoid re-logging in repeatedly
 # This also helps Instagram recognize your "device"
